@@ -1,3 +1,5 @@
-let ok  = 'data';
+// tableau 1
 
-console.log(ok);
+let arrayq = ["Bafou", "Batie", "Bamena"];
+
+console.log(arrayq.length);
