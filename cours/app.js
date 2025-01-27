@@ -1,1 +1,3 @@
-let ok  = 'data'
+let ok  = 'data';
+
+console.log(ok);
