@@ -2,4 +2,13 @@
 
 let arrayq = ["Bafou", "Batie", "Bamena"];
 
-console.log(arrayq.length);
+//objets
+
+let obj = {
+  pseudo: "franck",
+  name:"Kamgang",
+  age: 23,
+  technos: ["Javascript", "React", "NodeJs"],
+  admin: false,
+}
+console.log(obj);
